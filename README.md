@@ -18,6 +18,8 @@
 
   ![JavaScript](https://img.shields.io/badge/javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white)
   ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  ![express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 
 
 **Developing Tools**
