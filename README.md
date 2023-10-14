@@ -29,7 +29,7 @@
 
 <div align="left">
   <div align="left">
-  <a href="http://www.github.com/MarcelaLinhares"><img height='180em' src="https://github-readme-stats.vercel.app/api?username=MarcelaLinhares&show_icons=true&hide=&count_private=true&theme=react&show_icons=true" alt="MarcelaLinhares's GitHub stats" /></a>
+  <a href="http://www.github.com/MarcelaLinhares"><img height='180em' src="https://github-readme-stats.vercel.app/api?username=MarcelaLinhares&show_icons=true&theme=react" alt="MarcelaLinhares's GitHub stats" /></a>
     <a href="http://www.github.com/MarcelaLinhares">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelaLinhares&layout=compact&langs_count=7&theme=react"/></a>
    
