@@ -35,7 +35,7 @@
    
   </div>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelalinhares&layout=compact&langs_count=7&theme=react" alt="MarcelaLinhares" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcelaLinhares&layout=compact&langs_count=7&theme=react" alt="MarcelaLinhares" /></p>
 
 <h3> :earth_americas: &nbsp;Contacts </h3> 
 
