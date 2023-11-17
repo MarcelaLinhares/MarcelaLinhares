@@ -1,14 +1,16 @@
-## <Hello, 🌎/>  I'm Marcela Linhares!👋
+## <Hello, 🌎/>  Sou Marcela Linhares!👋
 ![](https://komarev.com/ghpvc/?username=MarcelaLinhares&color=000000)
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=MarcelaLinhares&countColorcountColor&countColor=%232979ff) ![GitHub followers](https://img.shields.io/github/followers/MarcelaLinhares?label=Follow&style=social)
 
-> 
 
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 👩‍💻 Sou Desenvolvedora Web Back-end, apaixonada, e sempre em buscar de aprender mais!
-- :mortar_board: Contadora em transição de carreira para a área Dev.
-- 💻 Atualmente faço Curso de Desenvolvimento de Software com foco em Back-end na Cubos Academy.
+- 🎯 Contadora em transição de carreira para a área Dev.
+- :mortar_board: Estudante de Engenharia de Software na Estácio. [saiba mais](https://github.com/MarcelaLinhares/Engenharia-de-Software-Estacio)
+- 💻 Atualmente faço os seguintes cursos de formação em Back-end (Bolsista Potência Tech):
+  * [<img align="left" height="24px" width="24px" alt="Warpnet" src="https://i.postimg.cc/5t8v5X6F/Cubos-Academy.png"/>](https://cubos.academy/)Desenvolvimento de Software com foco em Back-end na Cubos Academy (500h - Conclusão: Dez/23).
+  * [<img align="left" height="24px" width="24px" alt="Warpnet" src="https://avatars.githubusercontent.com/u/10048566?s=200&v=4"/>](https://descomplica.com.br/)Fundamentos Back-end (Banco de Dados e Fundamentos de Rede) na Descomplica.
 
 
 <h3> :rocket: &nbsp;My Skills </h3>
