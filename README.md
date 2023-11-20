@@ -1,4 +1,4 @@
-## <Hello, 🌎/>  O meu nome é Marcela, seja bem-vindo!👋
+## <Hello, 🌎/>  Meu nome é Marcela, seja bem-vindo(a)!👋
 ![](https://komarev.com/ghpvc/?username=MarcelaLinhares&color=000000)
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=MarcelaLinhares&countColorcountColor&countColor=%232979ff) ![GitHub followers](https://img.shields.io/github/followers/MarcelaLinhares?label=Follow&style=social)
 
