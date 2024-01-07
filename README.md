@@ -8,7 +8,7 @@
 - 👩‍💻 Sou Desenvolvedora Web Back-end, apaixonada, e sempre em buscar de aprender mais!
 - 🎯 Contadora em transição de carreira para a área Dev.
 - :mortar_board: Estudante de Engenharia de Software na Estácio. <a href="https://github.com/MarcelaLinhares/Engenharia-de-Software-Estacio" target="_blank">Saiba mais</a>
-- 💻 Atualmente faço os seguintes cursos de formação em Back-end (Bolsista Potência Tech):
+- 💻 Cursos de formação em Back-end (Bolsista Potência Tech):
   
   * [<img align="left" height="24px" width="24px" alt="Warpnet" src="https://i.postimg.cc/5t8v5X6F/Cubos-Academy.png"/>](https://cubos.academy/)Desenvolvimento de Software com foco em Back-end na Cubos Academy (500h - Conclusão: Dez/23).
   * [<img align="left" height="24px" width="24px" alt="Warpnet" src="https://avatars.githubusercontent.com/u/10048566?s=200&v=4"/>](https://descomplica.com.br/)Fundamentos Back-end (Banco de Dados e Fundamentos de Rede) na Descomplica (Conclusão: Jan/24).
