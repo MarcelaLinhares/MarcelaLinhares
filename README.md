@@ -40,7 +40,7 @@
 **Social**
 
 <a href="https://github.com/MarcelaLinhares" target="_black"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://www.hackerrank.com/MarcelaLinhares?hr_r=1" target="_black"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a>
+<a href="https://www.hackerrank.com/profile/MarcelaLinhares" target="_black"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a>
 <a href="https://leetcode.com/MarcelaLinhares/" target="_black"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank"></a>
   
   
