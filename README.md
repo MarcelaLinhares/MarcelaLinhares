@@ -1,6 +1,6 @@
 ## <Hello, 🌎/>  Meu nome é Marcela, seja bem-vindo(a)!👋
-![](https://komarev.com/ghpvc/?username=MarcelaLinhares&color=000000)
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=MarcelaLinhares&countColorcountColor&countColor=%232979ff) ![GitHub followers](https://img.shields.io/github/followers/MarcelaLinhares?label=Follow&style=social)
+
+![GitHub followers](https://img.shields.io/github/followers/MarcelaLinhares?label=Follow&style=social)
 
 
 <h3> :woman: &nbsp;Sobre mim </h3>
@@ -12,6 +12,11 @@
   
   * [<img align="left" height="24px" width="24px" alt="Warpnet" src="https://i.postimg.cc/5t8v5X6F/Cubos-Academy.png"/>](https://cubos.academy/)Desenvolvimento de Software com foco em Back-end na Cubos Academy (500h - Conclusão: Dez/23).
   * [<img align="left" height="24px" width="24px" alt="Warpnet" src="https://avatars.githubusercontent.com/u/10048566?s=200&v=4"/>](https://descomplica.com.br/)Fundamentos de Banco de Dados e de Redes de Computadores na Descomplica (140h - Conclusão: Mar/24).
+
+- 💻 Curso de formação em Cibersegurança (Programa Hackers do Bem):
+
+  * 1ª Etapa: Curso Nivelamento do programa Hackers do Bem (Formação em Cibersegurança) no Senai SP/RNP/Softex (80h - Conclusão: Abr/24).
+  * 2ª Etapa: Curso Básico do programa Hackers do Bem (Formação em Cibersegurança) no Senai SP/RNP/Softex (64h - Cursando).
 
 
 <h3> :rocket: &nbsp;My Skills </h3>
