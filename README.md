@@ -8,15 +8,7 @@
 - 👩‍💻 Sou Desenvolvedora Back-end, apaixonada, e sempre em buscar de aprender mais!
 - 🎯 Contadora em transição de carreira para a área Dev.
 - :mortar_board: Estudante de Engenharia de Software na Estácio. <a href="https://github.com/MarcelaLinhares/Engenharia-de-Software-Estacio" target="_blank">Saiba mais</a>
-- 💻 Cursos de formação em Back-end (Bolsista Potência Tech):
-  
-  * [<img align="left" height="24px" width="24px" alt="Warpnet" src="https://i.postimg.cc/5t8v5X6F/Cubos-Academy.png"/>](https://cubos.academy/)Desenvolvimento de Software com foco em Back-end na Cubos Academy (500h - Conclusão: Dez/23).
-  * [<img align="left" height="24px" width="24px" alt="Warpnet" src="https://avatars.githubusercontent.com/u/10048566?s=200&v=4"/>](https://descomplica.com.br/)Fundamentos de Banco de Dados e de Redes de Computadores na Descomplica (140h - Conclusão: Mar/24).
-
-- 💻 Curso de formação em Cibersegurança (Programa Hackers do Bem):
-
-  * 1ª Etapa: Curso Nivelamento do programa Hackers do Bem (Formação em Cibersegurança) no Senai SP/RNP/Softex (80h - Conclusão: Abr/24).
-  * 2ª Etapa: Curso Básico do programa Hackers do Bem (Formação em Cibersegurança) no Senai SP/RNP/Softex (64h - Cursando).
+- ☁ Certificada AWS Certified Cloud Practitioner
 
 
 <h3> :rocket: &nbsp;My Skills </h3>
