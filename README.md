@@ -8,7 +8,7 @@
 - 👩‍💻 Sou Desenvolvedora Back-end, apaixonada, e sempre em buscar de aprender mais!
 - 🎯 Contadora em transição de carreira para a área Dev.
 - :mortar_board: Estudante de Engenharia de Software na Estácio. <a href="https://github.com/MarcelaLinhares/Engenharia-de-Software-Estacio" target="_blank">Saiba mais</a>
-- ☁ Certificada AWS Certified Cloud Practitioner
+- ☁ 2x AWS Certified (AWS Cloud Practitioner & AI Practitioner)
 
 
 <h3> :rocket: &nbsp;My Skills </h3>
